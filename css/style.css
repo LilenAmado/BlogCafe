@@ -282,6 +282,11 @@ img {
         height: 12rem;
     }
 }
+@media(max-width: 1200px){
+    .flecha{
+        display:none;
+    }
+}
 h1{
     transition: all 300ms;
 }
